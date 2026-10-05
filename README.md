@@ -10,15 +10,38 @@ A native **SELECT query and data exploration workspace** for Dynamics 365 Financ
 
 > **Free license application required.** Submit a request for WexaSQL. Softwexa reviews the application and confirms the product-specific tenant grant before access is activated.
 
-## Product screenshots
+## Demo images
+
+Explore two local UI previews and the redacted Finance development workspace. Click an image to view it at full size.
+
+<details>
+<summary><strong>Demo images</strong> — click to expand (3 images)</summary>
+
+### 1. Query editor and schema — local UI demo
+
+The WexaSQL interface rendered locally with synthetic sample metadata, showing the table explorer, schema and SELECT editor. This UI preview has no connection to Finance or company data.
+
+<a href="./wexasql-query-editor-demo.jpg">
+  <img src="./wexasql-query-editor-demo.jpg" alt="WexaSQL local UI demo showing the SELECT query editor and table schema with synthetic sample metadata" width="100%">
+</a>
+
+### 2. Synthetic query results — local UI demo
+
+The same local interface with three synthetic sample rows supplied by the demo fixture. This preview illustrates the results layout; it does not represent a query executed against a Finance database.
+
+<a href="./wexasql-query-results-demo.jpg">
+  <img src="./wexasql-query-results-demo.jpg" alt="WexaSQL local UI demo showing the query and three synthetic sample result rows" width="100%">
+</a>
+
+### 3. Table explorer and ready data checks — Finance development
 
 SELECT workspace and ready data-check templates in the development installation. Company identifiers, user context, private license details and company-specific counts are redacted. Standard Dynamics 365 table and field names remain visible.
 
 <a href="./wexasql-workspace-redacted.png">
-  <img src="./wexasql-workspace-redacted.png" alt="WexaSQL development workspace showing SELECT query preparation and ready data-check templates, with private company and account details redacted" width="100%">
+  <img src="./wexasql-workspace-redacted.png" alt="WexaSQL development workspace showing the table explorer and ready data-check templates, with private company and account details redacted" width="100%">
 </a>
 
-*Redacted development screenshot. Open the image to inspect the full-size interface.*
+</details>
 
 ## Explore Finance data with a clear query boundary
 
@@ -75,4 +98,3 @@ For license applications, use the private website form or **[hello@softwexa.com]
 Built by **[Softwexa](https://www.softwexa.com)** — business software, Dynamics 365 Finance & Operations, X++ development and ERP integration.
 
 [LinkedIn](https://www.linkedin.com/company/softwexa/) · [YouTube](https://www.youtube.com/@softwexa_com) · [X](https://x.com/softwexa_com)
-
