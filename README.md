@@ -10,6 +10,16 @@ A native **SELECT query and data exploration workspace** for Dynamics 365 Financ
 
 > **Free license application required.** Submit a request for WexaSQL. Softwexa reviews the application and confirms the product-specific tenant grant before access is activated.
 
+## Product screenshots
+
+SELECT workspace and ready data-check templates in the development installation. Company identifiers, user context, private license details and company-specific counts are redacted. Standard Dynamics 365 table and field names remain visible.
+
+<a href="./wexasql-workspace-redacted.png">
+  <img src="./wexasql-workspace-redacted.png" alt="WexaSQL development workspace showing SELECT query preparation and ready data-check templates, with private company and account details redacted" width="100%">
+</a>
+
+*Redacted development screenshot. Open the image to inspect the full-size interface.*
+
 ## Explore Finance data with a clear query boundary
 
 - **SELECT query workspace:** prepare queries and inspect returned fields and rows.
